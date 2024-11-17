@@ -1,0 +1,6 @@
+[submodule "SOSPets-ui"]
+	path = SOSPets-ui
+	url = https://github.com/EyaNOUIRI/SOSPets-ui.git
+[submodule "SOSPets-api"]
+	path = SOSPets-api
+	url = https://github.com/EyaNOUIRI/SOSPets-api.git
